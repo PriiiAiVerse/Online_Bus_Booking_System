@@ -4,7 +4,7 @@
 
 
 <h1 align="center">🚌 Online Bus Booking System — My Diwali Code Saga ✨🚌</h1>
-
+ <img src="https://cdn.dribbble.com/userupload/24649847/file/original-0660a8b2abd28d54531190326b3e0841.gif" width="960" alt="Anime" />
 <p align="center">
   " During my Diwali holidays ✨, I took on my first-ever large-scale boss-level project for my 3rd semester — an online bus ticket booking system! Packed with interactive GUI battles, visually appealing moves, and real-world logic techniques like fare calculation jutsu, seat assignment strategies, and travel schedule summoning — it was my own little software saga!"
 </p>
@@ -40,7 +40,7 @@ Prepare yourself—this app isn’t just about buses. It’s packed with real-wo
 | 🧙‍♀️ OOP          | Code organized into a modular class structure             |
 | 🖼️ PNG Sprites  | Used for interface banners and navigation icons           |
 
-
+-----
 🧱 Database Schema (Summary)
 
 | Table             | Description                        | Key Columns                                                  |
@@ -57,11 +57,18 @@ Prepare yourself—this app isn’t just about buses. It’s packed with real-wo
 ## 📂 Project Structure
 
 OnlineBusBookingSystem/
+
 ├── online_bus_booking.py # Main Python application
+
 ├── online_bus_booking.db # SQLite DB (auto-created)
+
 ├── starbus.png # Banner image for GUI
+
 ├── home.png # Home icon for navigation
+
 └── README.md # This file
+
+----
 
 
 🛡️ How To Run
@@ -72,6 +79,7 @@ bash```
 ``
 Make sure to keep starbus.png and home.png in the same directory! They power the visuals.
 
+----
 
 📅 Input Format Guidelines
 | Field        | Format           |
@@ -83,3 +91,5 @@ Make sure to keep starbus.png and home.png in the same directory! They power the
 
 
 This wasn’t just an assignment — it was a software saga(special emotion )
+
+Made by : PriiiAiVerse
